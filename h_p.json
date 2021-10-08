@@ -1,0 +1,75 @@
+{
+	"Tommy": {
+        "PWidth": 34,
+        "PHeight": 58,
+		"MWidth": 20,
+		"MHeight": 57,
+		"HP": 100,
+		"Speed": 235,
+		"CD1": 2,
+		"CD2": 5.8,
+		"CD3": 16
+    },
+	"Aiwel": {
+        "PWidth": 80,
+        "PHeight": 65,
+		"MWidth": 20,
+		"MHeight": 55,
+		"HP": 90,
+		"Speed": 230,
+		"CD1": 2,
+		"CD2": 9.4,
+		"CD3": 14
+    },
+	"Wizard": {
+        "PWidth": 43,
+        "PHeight": 80.6,
+		"MWidth": 20,
+		"MHeight": 65,
+		"HP": 115,
+		"Speed": 400,
+		"CD1": 2,
+		"CD2": 4,
+		"CD3": 21
+    },
+	"Haze": {
+        "PWidth": 164,
+        "PHeight": 164,
+		"MWidth": 20,
+		"MHeight": 55,
+		"HP": 130,
+		"Speed": 300,
+		"CD1": 1,
+		"CD2": 4.5,
+		"CD3": 10
+    },
+	"Knight": {
+        "PWidth": 80,
+        "PHeight": 76,
+		"MWidth": 19,
+		"MHeight": 59,
+		"HP": 170,
+		"Speed": 240,
+		"CD1": 2,
+		"CD2": 1,
+		"CD3": 28
+    },
+	"Banish": {
+        "PWidth": 86,
+        "PHeight": 66,
+		"MWidth": 20,
+		"MHeight": 55,
+		"HP": 95,
+		"Speed": 215,
+		"CD1": 0.4,
+		"CD2": 3,
+		"CD3": 12
+    },
+	"Other": {
+		"CDShift": 1.4,
+		"RankedPrizeBB": 75,
+		"PublicPrizeBB_1": 75,
+		"PublicPrizeBB_2": 85,
+		"PublicPrizeBB_3": 95
+	}
+}

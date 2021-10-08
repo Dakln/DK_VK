@@ -1,0 +1,87 @@
+{
+	"Map_Ranked_1": {
+		"Name_EN": "Sunrise",
+		"Name_RU": "Восход",
+		"Gravity": 1800, 
+		"Frame": 0,
+		"isRanked": true
+	},
+	"Map_Ranked_2": {
+		"Name_EN": "The City",
+		"Name_RU": "Город",
+		"Gravity": 1800, 
+		"Frame": 1,
+		"isRanked": true
+	},
+	"Map_Ranked_3": {
+		"Name_EN": "Low Hills",
+		"Name_RU": "Холмы",
+		"Gravity": 1800, 
+		"Frame": 2,
+		"isRanked": true
+	},
+	"Map_Ranked_4": {
+		"Name_EN": "Misty Thickets",
+		"Name_RU": "Туманный лес",
+		"Gravity": 1800, 
+		"Frame": 3,
+		"isRanked": true
+	},
+	"Map_Ranked_5": {
+		"Name_EN": "Lonely House",
+		"Name_RU": "Одинокий домик",
+		"Gravity": 1800, 
+		"Frame": 4,
+		"isRanked": true
+	},
+	"Map_Ranked_6": {
+		"Name_EN": "Hellish Skies",
+		"Name_RU": "Адские небеса",
+		"Gravity": 1800, 
+		"Frame": 5,
+		"isRanked": true
+	},
+	"Map_Ranked_7": {
+		"Name_EN": "The Hollow",
+		"Name_RU": "Гулкая долина",
+		"Gravity": 1800, 
+		"Frame": 6,
+		"isRanked": true
+	},
+	"Map_Ranked_8": {
+		"Name_EN": "Burnt Forest",
+		"Name_RU": "Огненный лес",
+		"Gravity": 1800, 
+		"Frame": 7,
+		"isRanked": true
+	},
+	"Map_Ranked_9": {
+		"Name_EN": "Space",
+		"Name_RU": "Космос",
+		"Gravity": 1000, 
+		"Frame": 8,	
+		"isRanked": false
+	},
+	"Map_Ranked_10": {
+		"Name_EN": "Modern City",
+		"Name_RU": "Новый город",
+		"Gravity": 1800, 
+		"Frame": 9,
+		"isRanked": true
+	},
+	"Map_Ranked_11": {
+		"Name_EN": "Galaxy",
+		"Name_RU": "Галактика",
+		"Gravity": 1800, 
+		"Frame": 10,
+		"isRanked": true
+	},
+	"Map_Ranked_12": {
+		"Name_EN": "Day Town",
+		"Name_RU": "Дневной город",
+		"Gravity": 1800, 
+		"Frame": 11,
+		"isRanked": true
+	}
+
+}

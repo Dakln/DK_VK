@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "385888820974",
+    "firebase_url": "https://duels-kings-3c6fb-default-rtdb.firebaseio.com",
+    "project_id": "duels-kings-3c6fb",
+    "storage_bucket": "duels-kings-3c6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385888820974:android:8f58a4aaf705876887ddff",
+        "android_client_info": {
+          "package_name": "com.bbcompany.brawlbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385888820974-ngr1uo60q9iuhhv0uaujuoefkk5jg0jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bbcompany.brawlbattle",
+            "certificate_hash": "394ba408ac238d474cb96826b8a6baf6ed7b90c9"
+          }
+        },
+        {
+          "client_id": "385888820974-lkmr1mib17lsec8jai9hqv9egmd930m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2SGPXqITl3gOsJDGRXNWj7TI572Wvaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385888820974-lkmr1mib17lsec8jai9hqv9egmd930m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2722090745576414~2864611531"
+    }
+  ],
+  "configuration_version": "1"
+}

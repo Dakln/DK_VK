@@ -1,0 +1,19 @@
+{
+	"QUICK": {
+		"Frame": 0,
+		"Scale": 1
+	},
+	"RANKED": {
+		"Frame": 1,
+		"Scale": 1
+	},
+	"SERVERS": {
+		"Frame": 2,
+		"Scale": 1
+	},
+	"PVE": {
+		"Frame": 3,
+		"Scale": 1
+	}
+
+}

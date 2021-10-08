@@ -1,0 +1,97 @@
+{
+	"DEFAULT":{
+		"Items": {
+			"BB,BB_100": 0,
+			"BB,BB_250": 318,
+			"BB,BB_500": 270,
+			"XP,XP_100": 228,
+			"XP,XP_250": 180,
+			"FREE,FREE_MUSIC": 138,
+			"FREE,FREE_HERO": 90,
+			"SPIN,MEGA_1": 50
+		},
+		"Frame": 0
+	},
+	"MEGA":{
+		"Items": {
+			"BB,BB_2000": 0,
+			"BB,BB_3000": 318,
+			"BB,BB_5000": 270,
+			"XP,XP_500": 228,
+			"XP,XP_1000": 180,
+			"FREE,FREE_MUSIC": 138,
+			"FREE,FREE_SKIN": 90,
+			"SPIN,DEFAULT_10": 50
+		},
+		"Frame": 1
+	},
+	"DKPLUS":{
+		"Items": {
+			"BB,BB_100": 0,
+			"BB,BB_2000": 318,
+			"XP,XP_250": 270,
+			"OTHER,DKPLUS": 228,
+			"FREE,FREE_EMOTION": 180,
+			"FREE,FREE_MUSIC": 138,
+			"FREE,FREE_HERO": 90,
+			"SPIN,DEFAULT_1": 50
+		},
+		"Frame": 2
+	},
+	"BB":{
+		"Items": {
+			"BB,BB_100": 0,
+			"BB,BB_250": 318,
+			"BB,BB_500": 270,
+			"BB,BB_1000": 228,
+			"BB,BB_2000": 180,
+			"BB,BB_3000": 138,
+			"BB,BB_4000": 90,
+			"BB,BB_5000": 50
+		},
+		"Frame": 0,
+		"Price": 600
+	},
+	"SUPER_DEFAULT":{
+		"Items": {
+			"SPIN,MEGA_1": 0,
+			"SPIN,MEGA_2": 318,
+			"SPIN,MEGA_3": 270,
+			"SPIN,MEGA_4": 228,
+			"SPIN,MEGA_5": 180,
+			"SPIN,MEGA_10": 138,
+			"SPIN,MEGA_15": 90,
+			"SPIN,MEGA_20": 50
+		},
+		"Frame": 0,
+		"Price": 1500
+	},
+	"SUPER_MEGA":{
+		"Items": {
+			"SPIN,DEFAULT_1": 0,
+			"SPIN,DEFAULT_2": 318,
+			"SPIN,DEFAULT_3": 270,
+			"SPIN,DEFAULT_4": 228,
+			"SPIN,DEFAULT_5": 180,
+			"SPIN,DEFAULT_10": 138,
+			"SPIN,DEFAULT_15": 90,
+			"SPIN,DEFAULT_20": 50
+		},
+		"Frame": 1,
+		"Price": 1500
+	},
+	"XP":{
+		"Items": {
+			"BB,BB_100": 0,
+			"BB,BB_20000": 318,
+			"XP,XP_100": 270,
+			"OTHER,DKPLUS": 228,
+			"FREE,FREE_EMOTION": 180,
+			"FREE,FREE_MUSIC": 138,
+			"FREE,FREE_HERO": 90,
+			"SPIN,DEFAULT_1": 50
+		},
+		"Frame": 4,
+		"Price": 1500
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"BB": {
+		"BB_100": {
+			"Frame": 1,
+			"Prop_1": 100
+		},
+		"BB_250": {
+			"Frame": 2,
+			"Prop_1": 250
+		},
+		"BB_500": {
+			"Frame": 3,
+			"Prop_1": 500
+		},
+		"BB_1000": {
+			"Frame": 23,
+			"Prop_1": 1000
+		},
+		"BB_2000": {
+			"Frame": 10,
+			"Prop_1": 2000
+		},
+		"BB_3000": {
+			"Frame": 14,
+			"Prop_1": 3000
+		},
+		"BB_4000": {
+			"Frame": 16,
+			"Prop_1": 4000
+		},
+		"BB_5000": {
+			"Frame": 11,
+			"Prop_1": 5000
+		},
+		"BB_10000": {
+			"Frame": 12,
+			"Prop_1": 10000
+		},
+		"BB_20000": {
+			"Frame": 22,
+			"Prop_1": 20000
+		}
+	},
+	"XP": {
+		"XP_100": {
+			"Frame": 21,
+			"Prop_1": 2
+		},
+		"XP_250": {
+			"Frame": 15,
+			"Prop_1": 5
+		},
+		"XP_500": {
+			"Frame": 4,
+			"Prop_1": 10
+		},
+		"XP_1000": {
+			"Frame": 5,
+			"Prop_1": 20
+		},
+		"XP_2500": {
+			"Frame": 13,
+			"Prop_1": 50
+		}
+	},
+	"FREE": {
+		"FREE_MUSIC": {
+			"Frame": 6,
+			"Prop_1": 1
+		},
+		"FREE_HERO": {
+			"Frame": 0,
+			"Prop_1": 1
+		},
+		"FREE_EMOTION": {
+			"Frame": 20,
+			"Prop_1": 1
+		},
+		"FREE_SKIN": {
+			"Frame": 9,
+			"Prop_1": 1
+		}
+	},
+	"OTHER": {
+		"DKPLUS": {
+			"Frame": 18,
+			"Prop_1": 1
+		}
+	},
+	"SPIN": {
+		"DEFAULT_1": {
+			"Frame": 19,
+			"Prop_1": 1
+		},
+		"DEFAULT_2": {
+			"Frame": 31,
+			"Prop_1": 2
+		},
+		"DEFAULT_3": {
+			"Frame": 32,
+			"Prop_1": 3
+		},
+		"DEFAULT_4": {
+			"Frame": 33,
+			"Prop_1": 4
+		},
+		"DEFAULT_5": {
+			"Frame": 34,
+			"Prop_1": 5
+		},
+		"DEFAULT_10": {
+			"Frame": 8,
+			"Prop_1": 10
+		},
+		"DEFAULT_15": {
+			"Frame": 35,
+			"Prop_1": 15
+		},
+		"DEFAULT_20": {
+			"Frame": 36,
+			"Prop_1": 20
+		},
+		"MEGA_1": {
+			"Frame": 7,
+			"Prop_1": 1
+		},
+		"MEGA_2": {
+			"Frame": 24,
+			"Prop_1": 2
+		},
+		"MEGA_3": {
+			"Frame": 25,
+			"Prop_1": 3
+		},
+		"MEGA_4": {
+			"Frame": 26,
+			"Prop_1": 4
+		},
+		"MEGA_5": {
+			"Frame": 27,
+			"Prop_1": 5
+		},
+		"MEGA_10": {
+			"Frame": 28,
+			"Prop_1": 10
+		},
+		"MEGA_15": {
+			"Frame": 29,
+			"Prop_1": 15
+		},
+		"MEGA_20": {
+			"Frame": 30,
+			"Prop_1": 20
+		}
+	}
+	
+}

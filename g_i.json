@@ -1,0 +1,439 @@
+{
+	"Heroes":{
+        "Tommy": {
+			"Price": 4000,
+			"Frame": 0
+			},
+        "Aiwel": {
+			"Price": 4000,
+			"Frame": 1
+			 },
+        "Wizard": {
+			"Price": 4000,
+			"Frame": 2
+			 },
+        "Haze": {
+			"Price": 4000,
+			"Frame": 3
+			 },
+        "Knight": {
+			"Price": 4000,
+			"Frame": 4
+			 },
+        "Banish": {
+			"Price": 4000,
+			"Frame": 5
+			 }
+	},
+	"Skins":{
+        "Tommy": {
+			"Skin_1": {
+				"Price": 7490,
+				"Frame" : 0,
+				"Name" : "Tommy",
+				"Rare" : 4,
+				"Prop_1" : 30
+			},
+			"Skin_2": {
+				"Price": 7490,
+				"Frame" : 0,
+				"Name" : "Tommy",
+				"Rare" : 4,
+				"Prop_1" : 50
+			},
+			"Skin_3": {
+				"Price": 7490,
+				"Frame" : 0,
+				"Name" : "Tommy",
+				"Rare" : 4,
+				"Prop_1" : 80
+			}
+		},
+        "Aiwel": {
+			"Skin_1": {
+				"Price": 7490,
+				"Frame" : 1,
+				"Name" : "Aiwel",
+				"Rare" : 4,
+				"Prop_1" : 30
+			},
+			"Skin_2": {
+				"Price": 7490,
+				"Frame" : 1,
+				"Name" : "Aiwel",
+				"Rare" : 4,
+				"Prop_1" : 50
+			},
+			"Skin_3": {
+				"Price": 7490,
+				"Frame" : 1,
+				"Name" : "Aiwel",
+				"Rare" : 4,
+				"Prop_1" : 80
+			}
+		},
+        "Wizard": {
+			"Skin_1": {
+				"Price": 7490,
+				"Frame" : 2,
+				"Name" : "Wizard",
+				"Rare" : 4,
+				"Prop_1" : 30
+			},
+			"Skin_2": {
+				"Price": 7490,
+				"Frame" : 2,
+				"Name" : "Wizard",
+				"Rare" : 4,
+				"Prop_1" : 50
+			},
+			"Skin_3": {
+				"Price": 7490,
+				"Frame" : 2,
+				"Name" : "Wizard",
+				"Rare" : 4,
+				"Prop_1" : 80
+			}
+		},
+        "Haze": {
+			"Skin_1": {
+				"Price": 7490,
+				"Frame" : 3,
+				"Name" : "Haze",
+				"Rare" : 4,
+				"Prop_1" : 30
+			},
+			"Skin_2": {
+				"Price": 7490,
+				"Frame" : 3,
+				"Name" : "Haze",
+				"Rare" : 4,
+				"Prop_1" : 50
+			},
+			"Skin_3": {
+				"Price": 7490,
+				"Frame" : 3,
+				"Name" : "Haze",
+				"Rare" : 4,
+				"Prop_1" : 80
+			}
+		},
+        "Banish": {
+			"Skin_1": {
+				"Price": 7490,
+				"Frame" : 5,
+				"Name" : "Banish",
+				"Rare" : 4,
+				"Prop_1" : 30
+			},
+			"Skin_2": {
+				"Price": 7490,
+				"Frame" : 5,
+				"Name" : "Banish",
+				"Rare" : 4,
+				"Prop_1" : 50
+			},
+			"Skin_3": {
+				"Price": 7490,
+				"Frame" : 5,
+				"Name" : "Banish",
+				"Rare" : 4,
+				"Prop_1" : 80
+			}
+		}
+	},
+	"Music": {
+		"Nantiro": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 0
+		},
+		"Formant": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 1
+		},
+		"Lexica": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 2
+		},
+		"Nanzell": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 3
+		},
+		"Boat": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 4
+		},
+		"Circuit": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 5
+		},
+		"Drift": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 6
+		},
+		"Rolla": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 7
+		},
+		"Abstra": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 8
+		},
+		"Exclusion": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 9
+		},
+		"Quiet": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 10
+		},
+		"Growth": {
+			"Price": 5990,
+			"Rare" : 3,
+			"Frame": 11
+		},
+		"Reasons": {
+			"Price": 0,
+			"Rare" : 1,
+			"Frame": 12
+		}
+	},
+	"Emotions": {
+		"NOWAY": {
+			"Price": 4590,
+			"Frame": 0,
+			"Name": "No way",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"ADIOS": {
+			"Price": 4590,
+			"Frame": 1,
+			"Name": "Adios",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"GAMEOVER": {
+			"Price": 4590,
+			"Frame": 2,
+			"Name": "Game over",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"GOODLUCK": {
+			"Price": 4590,
+			"Frame": 3,
+			"Name": "Good luck",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"GREAT": {
+			"Price": 4590,
+			"Frame": 4,
+			"Name": "Great",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"HAHA": {
+			"Price": 4590,
+			"Frame": 5,
+			"Name": "Ha Ha",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"LAUGHING": {
+			"Price": 4590,
+			"Frame": 6,
+			"Name": "Laughing",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"LETSGO": {
+			"Price": 4590,
+			"Frame": 7,
+			"Name": "Let's go",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"LOWONHEALTH": {
+			"Price": 4590,
+			"Frame": 8,
+			"Name": "Low on health",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"NO": {
+			"Price": 4590,
+			"Frame": 9,
+			"Name": "No",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"OKEY": {
+			"Price": 4590,
+			"Frame": 10,
+			"Name": "Okey",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"SORRY": {
+			"Price": 4590,
+			"Frame": 11,
+			"Name": "Sorry",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"WHATSUP": {
+			"Price": 4590,
+			"Frame": 12,
+			"Name": "What's Up",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"WOHOO": {
+			"Price": 4590,
+			"Frame": 13,
+			"Name": "Wo hoo",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"YES": {
+			"Price": 4590,
+			"Frame": 14,
+			"Name": "Yes",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"CONFUSED": {
+			"Price": 4590,
+			"Frame": 15,
+			"Name": "Confused",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"WOW": {
+			"Price": 4590,
+			"Frame": 16,
+			"Name": "Wow",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"AHEM": {
+			"Price": 4590,
+			"Frame": 17,
+			"Name": "Ahem",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"STRONG": {
+			"Price": 4590,
+			"Frame": 18,
+			"Name": "Strong",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"BYE": {
+			"Price": 4590,
+			"Frame": 19,
+			"Name": "Bye",
+			"Rare" : 5,
+			"Type": "Audio"
+		},
+		"HELPME": {
+			"Price": 4590,
+			"Frame": 20,
+			"Name": "Help me",
+			"Rare" : 2,
+			"Type": "Text"
+		},
+		"SEEYOU": {
+			"Price": 4590,
+			"Frame": 21,
+			"Name": "See you",
+			"Rare" : 2,
+			"Type": "Text"
+		},
+		"GOAWAY": {
+			"Price": 4590,
+			"Frame": 22,
+			"Name": "Go Away",
+			"Rare" : 2,
+			"Type": "Text"
+		},
+		"GG": {
+			"Price": 4590,
+			"Frame": 23,
+			"Name": "GG",
+			"Rare" : 2,
+			"Type": "Text"
+		},
+		"GGWP": {
+			"Price": 4590,
+			"Frame": 24,
+			"Name": "GGWP",
+			"Rare" : 2,
+			"Type": "Text"
+		},
+		"GOODBYE": {
+			"Price": 4590,
+			"Frame": 25,
+			"Name": "Goodbye!",
+			"Rare" : 2,
+			"Type": "Text"
+		}
+
+	},
+	"Bundles":{
+        "Starter": {
+			"Price": 10990,
+			"Frame": 0,
+			"Items": "Banish+Skin,2500 BB,5 Default Spins"
+			},
+        "Decent": {
+			"Price": 14990,
+			"Frame": 1,
+			"Items": "Tommy,Aiwel,Wizard,Haze,Knight,Banish"
+			 },
+        "Tommy": {
+			"Price": 13990,
+			"Frame": 2,
+			"Items": "Tommy+Skin,Music: Exclusion"
+			 },
+        "Aiwel": {
+			"Price": 13990,
+			"Frame": 3,
+			"Items": "Aiwel+Skin,Music: Abstra"
+			 },
+        "Wizard": {
+			"Price": 13990,
+			"Frame": 4,
+			"Items": "Wizard+Skin,Music: Rolla"
+			 },
+        "Banish": {
+			"Price": 13990,
+			"Frame": 7,
+			"Items": "Banish+Skin,Music: Formant"
+			 },
+        "Haze": {
+			"Price": 13990,
+			"Frame": 5,
+			"Items": "Haze+Skin,Music: Growth"
+			 },
+        "Knight": {
+			"Price": 13990,
+			"Frame": 6,
+			"Items": "Knight,Music: Circuit,Music: Quiet,1000 BB"
+			 }
+	}
+}

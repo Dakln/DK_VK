@@ -1,0 +1,32 @@
+{
+	"Event_1": {
+		"Name": "BATTLE CUP",
+		"Text_1": "20:00",
+		"Text_2": "Text",
+		"Status": "Soon",
+		"Gamemode": "Tournament_1v1",
+		"Matches": 10,
+		"Color": 0,
+		"Frame": 0
+	},
+	"Event_2": {
+		"Name": "",
+		"Text_1": "00:00",
+		"Text_2": "Text",
+		"Status": "Soon",
+		"Gamemode": "Tournament_1v1",
+		"Matches": 10,
+		"Color": 0,
+		"Frame": 1
+	},
+	"Event_3": {
+		"Name": "",
+		"Text_1": "00:00",
+		"Text_2": "Text",
+		"Status": "Soon",
+		"Gamemode": "Tournament_1v1",
+		"Matches": 10,
+		"Color": 0,
+		"Frame": 2
+	}
+}

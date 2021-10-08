@@ -1,0 +1,72 @@
+{
+	"DEFAULT": {
+		"1_BB_100": 12,
+		"2_BB_250": 4,
+		"3_BB_500": 3,
+		"4_XP_250": 4,
+		"5_XP_500": 3,
+		"6_FREE_MUSIC": 2,
+		"7_FREE_HERO": 1,
+		"8_SPIN_MEGA": 1
+	},
+	"MEGA": {
+		"1_BB_2000": 10,
+		"2_BB_3000": 2,
+		"3_BB_5000": 1,
+		"4_XP_500": 10,
+		"5_XP_1000": 3,
+		"6_FREE_MUSIC": 2,
+		"7_FREE_SKIN": 2,
+		"8_SPIN_DEFAULT": 3
+	},
+	"DKPLUS": {
+		"1_BB_100": 13,
+		"2_BB_2000": 1,
+		"3_XP_250": 13,
+		"4_DK_PLUS": 1,
+		"5_FREE_EMOTION": 5,
+		"6_FREE_MUSIC": 4,
+		"7_FREE_HERO": 5,
+		"8_SPIN_DEFAULT": 9
+	},
+	"BB": {
+		"1_BB_100": 18,
+		"2_BB_250": 40,
+		"3_BB_500": 40,
+		"4_BB_1000": 15,
+		"5_BB_2000": 2,
+		"6_BB_3000": 2,
+		"7_BB_4000": 1,
+		"8_BB_5000": 1
+	},
+	"SUPER_DEFAULT": {
+		"1_SPIN_MEGA": 13,
+		"2_SPIN_MEGA": 0,
+		"3_SPIN_MEGA": 13,
+		"4_SPIN_MEGA": 1,
+		"5_SPIN_MEGA": 5,
+		"6_SPIN_MEGA": 4,
+		"7_SPIN_MEGA": 5,
+		"8_SPIN_MEGA": 9
+	},
+	"SUPER_MEGA": {
+		"1_SPIN_DEFAULT": 13,
+		"2_SPIN_DEFAULT": 0,
+		"3_SPIN_DEFAULT": 13,
+		"4_SPIN_DEFAULT": 1,
+		"5_SPIN_DEFAULT": 5,
+		"6_SPIN_DEFAULT": 4,
+		"7_SPIN_DEFAULT": 5,
+		"8_SPIN_DEFAULT": 9
+	},
+	"XP": {
+		"1_BB_100": 13,
+		"2_BB_20000": 0,
+		"3_XP_100": 13,
+		"4_DK_PLUS": 1,
+		"5_FREE_EMOTION": 5,
+		"6_FREE_MUSIC": 4,
+		"7_FREE_HERO": 5,
+		"8_SPIN_DEFAULT": 9
+	}
+}

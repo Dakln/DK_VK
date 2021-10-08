@@ -1,0 +1,11 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "MOVING_TYPE": "Default",
+        "MUSIC_STEP": 4,
+        "SOUNDS_STEP": 6,
+        "INFO": "Off",
+        "CHAT_LOG": "On",
+        "GRAPHICS": "High"
+    }
+}
